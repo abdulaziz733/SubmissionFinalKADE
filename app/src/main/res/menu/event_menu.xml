@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_matches"
+        android:icon="@drawable/baseline_event_available_24"
+        android:title="@string/matches" />
+
+    <item
+        android:id="@+id/menu_teams"
+        android:icon="@drawable/baseline_event_24"
+        android:title="@string/teams" />
+
+    <item
+        android:id="@+id/menu_favorite_event"
+        android:icon="@drawable/ic_favorites"
+        android:title="@string/favoriteEvent" />
+
+</menu>
